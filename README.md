@@ -1,9 +1,9 @@
-### Skills 👋
+# Skills 👋
 
 ## BackEnd
 ***
 
-* **<u>*Languages*</u>**
+* ***Languages***
   * Java
     * Spring Boot
     * Gradle
@@ -20,7 +20,7 @@
 ## DevOps
 ***
 
-  * **<u>*DB*</u>**
+  * ***DB***
     * RDBMS
       * Oracle(SQL Developer)
       * MY SQL
@@ -28,10 +28,10 @@
     * NoSQL
       * (NotYet)
 
-  * **<u>*Cloud Service*</u>**
+  * ***Cloud Service***
     * AWS(EC2)
   
-  * **<u>*CI / CD*</u>**
+  * ***CI / CD***
     * Travis(추가 개선 필요)
 
 ## Collaboration Tools
