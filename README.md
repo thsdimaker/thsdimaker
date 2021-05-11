@@ -38,6 +38,9 @@
     * Thymeleaf
     * Mustache
 
+  * 무중단 배포
+    * Nginx(Not yet)
+
 ## Collaboration Tools
 ***
   * Git
