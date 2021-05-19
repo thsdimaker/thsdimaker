@@ -32,7 +32,7 @@
     * AWS(EC2)
   
   * ***CI / CD***
-    * Travis(추가 개선 필요)
+    * Travis(추가 개선 필요), CodeDeploy
    
   * ***Template Engines***
     * Thymeleaf
