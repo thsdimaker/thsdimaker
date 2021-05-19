@@ -1,18 +1,14 @@
 # Skills 👋
-
+##(수정중- 계속해서 이력 추가)
 ## BackEnd
 ***
 
-* ***Languages***
-  * Java
-    * Spring Boot
-    * Gradle
-    * JPA
-    * Junit 4.x
 
-  * Python 
-  * Node.js
-* **<u>*Tools*</u>**
+  * Java, Node.js, Python
+  * Spring Boot(MVC), Gradle, JPA, Junit 4.x
+
+  
+* ***Tools***
   * InteliJ, Eclipse
   * VScode
   * Vim
@@ -21,21 +17,11 @@
 ***
 
   * ***DB***
-    * RDBMS
-      * Oracle(SQL Developer)
-      * MY SQL
-    
-    * NoSQL
-      * (NotYet)
-
-  * ***Cloud Service***
-    * AWS(EC2)
-  
-  * ***CI / CD***
-    * Travis(추가 개선 필요), CodeDeploy
+      * Oracle(SQL Developer), MY SQL
+      * AWS(EC2, S3, CodeDeploy)
+      * Travis
    
   * ***Template Engines***
-    * Thymeleaf
     * Mustache
 
   * 무중단 배포
