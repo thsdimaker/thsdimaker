@@ -3,11 +3,9 @@
  * Clean Code와 Test에 대한 실력 향상을 위해 많은 서적과, 강의를 참고해나가고 있습니다.
  * 운동, 독서에 관심이 많습니다.
 
-# Skills 👋
+# My Skills 👋
 
-
-##(수정중- 계속해서 이력 추가)
-## BackEnd
+## 1) BackEnd
 ***
 
 
@@ -20,7 +18,7 @@
   * VScode
   * Vim
 
-## DevOps
+## 2) DevOps
 ***
 
   * ***DB***
@@ -34,14 +32,14 @@
   * 무중단 배포
     * Nginx
 
-## Collaboration Tools
+## 3) Collaboration Tools
 ***
   * Git
   * Slack
   * Notion
  
  
-## FrontEnd
+## 4) FrontEnd
 ***
 * HTML5, CSS3
 * JS(ES6)
