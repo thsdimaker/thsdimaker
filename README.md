@@ -29,10 +29,10 @@
       * Travis
    
   * ***Template Engines***
-    * Mustache
+    * Thymeleaf, Mustache
 
   * 무중단 배포
-    * Nginx(Not yet)
+    * Nginx
 
 ## Collaboration Tools
 ***
@@ -45,7 +45,6 @@
 ***
 * HTML5, CSS3
 * JS(ES6)
-  * React.js
    
 
 
