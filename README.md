@@ -30,7 +30,7 @@
   * ***Template Engines***
     * Thymeleaf, Mustache
 
-  * 무중단 배포
+  * NonStop Deployment
     * Nginx
 
 ## 3) Collaboration Tools
