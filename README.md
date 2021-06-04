@@ -1,8 +1,9 @@
 # About ME
+ * 안녕하세요!
  * 기록하는 습관을 위해 사소한 깨달음이라도 적어나가고 있습니다.
  * Clean Code와 Test에 대한 실력 향상을 위해 많은 서적과, 강의를 참고해나가고 있습니다.
- * 이론과 코딩 능력과의 괴리를 줄이기 위해 방법론을 항상 생각해나갑니다.
- * 운동, 독서에 관심이 있습니다.
+ * 이론과 코딩 능력과의 괴리를 줄이기 위해 여러 유료 플랫폼들을 통해 학습하며, 커밋 운동을 하고있습니다.
+ * 독서를 취미로 삼고 있습니다.
 
 ## My Skills 👋
 
@@ -10,8 +11,10 @@
 ***
 
 
-  * Java, Node.js, Python
-  * Spring Boot(MVC), Gradle, JPA, Junit 4.x
+  * Java, Node.js
+  * Spring Boot, Gradle, Spring MVC, Spring Data JPA
+  * JPA ,Querydsl
+  * junit4
 
   
 * ***Tools***
@@ -23,7 +26,7 @@
 ***
 
   * ***DB***
-      * Oracle(SQL Developer), MY SQL
+      * MY SQL, Maria Db
       * AWS(EC2, S3, CodeDeploy)
       * Travis
    
@@ -45,7 +48,8 @@
 * HTML5, CSS3
 * JS(ES6)
    
-
+## 5) ETC
+* Python
 
 
 
