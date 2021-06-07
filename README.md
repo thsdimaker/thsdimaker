@@ -12,7 +12,7 @@
 
 
   * Java, Node.js
-  * Spring Boot, Gradle, Spring MVC, Spring Data JPA
+  * Spring Boot, Spring MVC, Gradle, Spring Data JPA
   * JPA ,Querydsl
   * junit4
 
