@@ -22,7 +22,6 @@
 * ***Tools***
   * InteliJ, Eclipse
   * VScode
-  * Vim
 
 ## 2) DevOps
 ***
@@ -52,6 +51,7 @@
    
 ## 5) ETC
 * Python
+* Linux(Ubuntu)
 
 
 
