@@ -13,7 +13,7 @@
 ***
 
 
-  * Java, Node.js
+  * Java
   * Spring Boot, Spring MVC, Gradle
   * Spring Data JPA, Hibernate, JPA
   * junit4
