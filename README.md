@@ -52,7 +52,8 @@
    
 ## 5) ETC
 * Python
-* Linux(Ubuntu)
+* Vmware
+* Linux(Ubuntu 18.0.4)
 
 
 
