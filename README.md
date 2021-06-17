@@ -31,8 +31,9 @@
 
   
 * ***Tools***
-  * InteliJ, Eclipse
+  * InteliJ
   * VScode
+  * 
 
 ## 2) DevOps
 ***
