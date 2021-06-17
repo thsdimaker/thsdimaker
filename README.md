@@ -19,6 +19,9 @@
   * Spring Data JPA, Hibernate, JPA
   * junit4
 
+  * Php(7.2, 7.4)
+  * larabel(5.8)
+
   
 * ***Tools***
   * InteliJ, Eclipse
@@ -28,7 +31,7 @@
 ***
 
   * ***DB***
-      * MY SQL, Maria Db
+      * MY SQL(8.0), Maria Db
       * AWS(EC2, S3, CodeDeploy)
       * Travis
    
