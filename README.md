@@ -8,6 +8,13 @@
  * 개발능력을 향상시키기 위한 가장 빠른 방법은 "모방"이라 생각하며 먼저 나아간 선임 개발자 분들의 영상들을 참고하며 발전하기 위해 노력하고 있습니다.
  * 독서를 취미로 삼고 있습니다.
 
+
+# BackEnd 핵심 역량?
+
+  * Web Standard(W3C) 준수
+  * Design Pattern(MVC) 표준 활용
+  * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
+
 ## My Skills 👋
 
 ## 1) BackEnd
@@ -57,6 +64,7 @@
 * Python
 * Vmware
 * Linux(Ubuntu 18.0.4)
+* PostMan(For testing API)
 
 
 
