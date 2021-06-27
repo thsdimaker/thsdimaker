@@ -33,7 +33,7 @@
 * ***Tools***
   * InteliJ
   * VScode
-  * 
+  * Postman
 
 ## 2) DevOps
 ***
