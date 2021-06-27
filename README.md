@@ -31,7 +31,7 @@
 
   
 * ***Tools***
-  * InteliJ
+  * InteliJ, PhpStorm
   * VScode
   * Postman
 
