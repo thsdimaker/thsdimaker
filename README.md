@@ -27,7 +27,7 @@
   * junit4
 
   * Php(7.2, 7.4)
-  * larabel(5.8)
+  * larabel(5.8, 8)
 
   
 * ***Tools***
