@@ -11,9 +11,10 @@
 
 # BackEnd 핵심 역량?
 
+  * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
   * Web Standard(W3C) 준수
   * Design Pattern(MVC) 표준 활용
-  * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
+  
 
 ## My Skills 👋
 
@@ -22,12 +23,12 @@
 
 
   * Java
-  * Spring Boot, Spring MVC, Gradle
-  * Spring Data JPA, Hibernate, JPA
-  * junit4
+    - Spring Boot, Spring MVC, Gradle
+    - Spring Data JPA, Hibernate, JPA
+    - junit4
 
   * Php(7.2, 7.4)
-  * larabel(5.8, 8)
+    - larabel(5.8, 8)
 
   
 * ***Tools***
