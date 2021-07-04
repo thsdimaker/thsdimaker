@@ -27,7 +27,7 @@
     - Spring Data JPA, Hibernate, JPA
     - junit4
 
-  * Php(7.2, 7.4)
+  * PHP
     - larabel(5.8, 8)
 
   
