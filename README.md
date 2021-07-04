@@ -66,7 +66,7 @@
 * Python
 * Vmware
 * Linux(Ubuntu 18.0.4)
-* PostMan(For testing API)
+
 
 
 
