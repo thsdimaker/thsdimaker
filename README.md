@@ -37,18 +37,27 @@
   * Postman
 
 ## 2) DevOps
-***
 
-  * ***DB***
-      * MY SQL(8.0), Maria Db
-      * AWS(EC2, S3, CodeDeploy)
-      * Travis
+* ***AWS***
+  - EC2(Ubuntu 18.04)
+  - Route 53
+  - RDS(MY SQL(8.0))
+  - IAM
+  - S3
+  - CodeDeploy
+  - Travis
+      
+
+
+  
+  
+      
    
-  * ***Template Engines***
-    * Thymeleaf, Mustache
+* Template Engines
+  * Thymeleaf, Mustache
 
-  * NonStop Deployment
-    * Nginx
+* NonStop Deployment
+  * Nginx
 
 ## 3) Collaboration Tools
 ***
