@@ -56,9 +56,6 @@
 * Template Engines
   * Thymeleaf, Mustache
 
-* NonStop Deployment
-  * Nginx
-
 ## 3) Collaboration Tools
 ***
   * Git
