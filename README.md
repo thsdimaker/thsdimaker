@@ -11,7 +11,6 @@
 # BackEnd 핵심 역량?
 
   * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
-  * Web Standard(W3C) 준수
   * Design Pattern(MVC) 표준 활용
   
 
