@@ -22,11 +22,23 @@
 
   * Java
     - Spring Boot, Spring MVC, Gradle
-    - Spring Data JPA, Hibernate, JPA
+    - JPA, Spring Data JPA
+      - Hibernate
     - junit4
 
   * PHP
     - larabel(5.8, 8)
+  
+  
+  
+  * Db
+    - (local)
+      - H2
+      - Mysql Workbench
+    - (Operation)
+      - AWS RDS Mysql(8.x)
+
+
 
   
 * ***Tools***
