@@ -51,7 +51,7 @@
 * ***AWS***
   - EC2(Ubuntu 18.04)
   - Route 53
-  - RDS(MY SQL(8.0))
+  - RDS
   - IAM
   - S3
   (Not yet)
