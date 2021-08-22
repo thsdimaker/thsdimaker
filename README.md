@@ -49,6 +49,7 @@
 ## 2) DevOps
 
 * ***AWS***
+
   - EC2(Ubuntu 18.04)
   - Route 53
   - RDS
