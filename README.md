@@ -86,6 +86,19 @@
 
 
 
+## 6) I'm possible under list
+***
+
+
+- 프로젝트 환경세팅(
+ㄴ 리눅스 환경 설정
+ㄴ 인텔리제이 초기 설정
+ㄴ DB(시간 동기화)
+- MVC 패턴 디자인
+ㄴ
+- 
+ㄴ
+
 
 <!--
 **thsdimaker/thsdimaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
