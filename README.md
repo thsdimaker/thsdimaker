@@ -2,7 +2,7 @@
  * 안녕하세요!
  * 기록하는 습관을 위해 사소한 깨달음이라도 적어나가고 있습니다.
  * 개발 실력 향상을 위해 많은 [서적과 강의](https://github.com/thsdimaker/Education-Books)를 참고하며 기록해나가고 있습니다.
- * 이론과 코딩 능력과의 괴리를 줄이기 위해 여러 유료 플랫폼들(인프런 등..)을 통해 학습하며, 커밋 운동을 하고있습니다.
+ * 이론과 코딩 능력과의 괴리를 줄이기 위해 여러 유료 플랫폼들(인프런 등..)을 통해 학습하며, 커밋을 해나가고 있습니다.
  * 개발능력을 향상시키기 위한 가장 빠른 방법은 "모방"이라 생각하며 먼저 나아간 선임 개발자 분들의 영상들을 참고하며 발전하기 위해 노력하고 있습니다.
  * 독서를 취미로 삼고 있습니다.
 
@@ -22,7 +22,7 @@
   * Java
     - Spring Boot, Spring MVC, Gradle
     - JPA, Spring Data JPA
-      - Hibernate
+     - Hibernate
     - junit4
 
   * PHP
@@ -89,16 +89,16 @@
 ## 6) I'm possible under list
 ***
 
+* 프로젝트 환경설정
+  - 리눅스 환경 설정
+  - IDE(인텔리제이 등) 초기 설정
+  - DB 매핑
 
-- 프로젝트 환경세팅(
-ㄴ 리눅스 환경 설정
-ㄴ 인텔리제이 초기 설정
-ㄴ DB(시간 동기화)
-- MVC 패턴 디자인
-ㄴ
-- 
-ㄴ
-
+* 개발
+  - MVC 디자인 패턴 개발
+  - REST API
+  - 로그인 
+ 
 
 <!--
 **thsdimaker/thsdimaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
