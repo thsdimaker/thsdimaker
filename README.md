@@ -80,8 +80,8 @@
 * JS(ES6)
    
 ## 5) ETC
-* Python
-* Vmware
+* Python(3.x)
+* Vmware(16 pro)
 * Linux(Ubuntu 18.0.4)
 
 
