@@ -6,13 +6,6 @@
  * 개발능력을 향상시키기 위한 가장 빠른 방법은 "모방"이라 생각하며 먼저 나아간 선임 개발자 분들의 영상들을 참고하며 발전하기 위해 노력하고 있습니다.
  * 독서, 운동을 취미로 삼고 있습니다.
 
-
-# BackEnd 핵심 역량?
-
-  * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
-  * Design Pattern(MVC) 표준 활용
-  
-
 ## My Skills 👋
 
 ## 1) BackEnd
@@ -100,6 +93,11 @@
   - Git 
   
  
+## BackEnd 핵심 역량? (이 부분 다시 고민 삭제 할지 말지)
+
+  * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
+  * Design Pattern(MVC) 표준 활용
+  
 
 <!--
 **thsdimaker/thsdimaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
