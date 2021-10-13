@@ -19,7 +19,7 @@
     - junit4
 
   * PHP 7.x 
-    - larabel 8.x -> 실무()
+    - larabel 8.x -> 실무(LAMP)
   
   
   
