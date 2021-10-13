@@ -60,12 +60,9 @@
   * Slack
   * Notion
  
-## 4) FrontEnd
-***
-* HTML5, CSS3
-* JS(ES6)
+
    
-## 5) ETC
+## 4) ETC
 
 * Vmware(16 pro)
   - Linux(Ubuntu 18.0.4)
@@ -74,7 +71,7 @@
 
 
 
-## 6) I'm possible under list
+## 5) I'm possible under list
 ***
 
 * 프로젝트 환경설정
