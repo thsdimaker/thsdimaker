@@ -18,8 +18,8 @@
      - Hibernate
     - junit4
 
-  * PHP
-    - larabel(5.8, 8)
+  * PHP 7.x -> 실무
+    - larabel 8.x
   
   
   
