@@ -92,12 +92,6 @@
   - API 문서 작성
   - Git 
   
- 
-## BackEnd 핵심 역량? (이 부분 다시 고민 삭제 할지 말지)
-
-  * Web Board CRUD (having Paging) + Rest API Structure + Cloud Servic(like AWS) Using Abilities
-  * Design Pattern(MVC) 표준 활용
-  
 
 <!--
 **thsdimaker/thsdimaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
