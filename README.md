@@ -59,7 +59,7 @@
 ## 3) Collaboration Tools
 ***
   * Git
-  * Slack
+  * Slack, JANDI
   * Notion
  
 
