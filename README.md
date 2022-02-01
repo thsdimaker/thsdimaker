@@ -48,6 +48,8 @@
   - RDS
   - IAM
   - S3
+  - Cloud Front
+  - API Gateway
   
   (Not yet)
   - CodeDeploy
