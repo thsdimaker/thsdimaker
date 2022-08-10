@@ -59,16 +59,18 @@
   * Thymeleaf, Mustache
   
   
-* Settings
+* Web Settings
 
+ - admin page
  - Domain
-  - Gsuite
- - SNS Login
+   - Gsuite
+ - SNS Login(Kakao, Google, Naver)
+ - DB table (1:1, N:M, M:M)
 
 
 ## 3) Collaboration Tools
 ***
-  * Git
+  * Git(hub)
   * Slack, JANDI
   * Notion
  
