@@ -57,6 +57,14 @@
       
 * Template Engines
   * Thymeleaf, Mustache
+  
+  
+* Settings
+
+ - Domain
+  - Gsuite
+ - SNS Login
+
 
 ## 3) Collaboration Tools
 ***
