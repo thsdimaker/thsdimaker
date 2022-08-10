@@ -68,8 +68,7 @@
   - DB table (1:1, N:M, M:M)
   
  * Hosting
- 
-  - imweb
+   - imweb
 
 
 ## 3) Collaboration Tools
