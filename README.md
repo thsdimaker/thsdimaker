@@ -61,11 +61,11 @@
   
 * Web Settings
 
- - admin page
- - Domain
-   - Gsuite
- - SNS Login(Kakao, Google, Naver)
- - DB table (1:1, N:M, M:M)
+  - admin page
+  - Domain
+    - Gsuite
+  - SNS Login(Kakao, Google, Naver)
+  - DB table (1:1, N:M, M:M)
 
 
 ## 3) Collaboration Tools
