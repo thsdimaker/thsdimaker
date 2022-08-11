@@ -67,7 +67,7 @@
   - SNS Login(Kakao, Google, Naver)
   - DB table (1:1, N:M, M:M)
   
- * Hosting
+ * WebBuilder Service
    - imweb
 
 
