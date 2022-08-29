@@ -5,6 +5,7 @@
  * 이론과 코딩 능력과의 괴리를 줄이기 위해 여러 유료 플랫폼들(인프런 등..)을 통해 학습하며, 커밋을 해나가고 있습니다.
  * 개발능력을 향상시키기 위한 가장 빠른 방법은 "모방"이라 생각하며 먼저 나아간 선임 개발자 분들의 영상들을 참고 해나가고 있습니다.
  * 나만의 문서를 만들어 메뉴얼화 시키는것이 개발에서 가장 핵심적인 역량이라 생각합니다.
+ * 포트폴리오 확인하로 가기
 
 
 
@@ -36,7 +37,7 @@
     - H2
     - Mysql Workbench
   - (Operation)
-    - AWS RDS Mysql(8.x)
+    - AWS RDS Mysql (8.x)
   - SQL
 
 
@@ -48,7 +49,7 @@
 
 * ***AWS***
 
-  - EC2(Ubuntu 18.04)
+  - EC2 (Ubuntu 18.04)
   - Route 53
   - RDS
   - IAM
@@ -84,7 +85,7 @@
   * Notion
   * Slack, JANDI
   * Vmware(16 pro)
-   - Linux(Ubuntu 18.0.4)
+      * Linux (Ubuntu 18.0.4)
   
   
    
