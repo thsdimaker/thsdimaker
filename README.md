@@ -1,43 +1,48 @@
 # About ME
- * 안녕하세요!
+ * 안녕하세요 :)
  * 기록하는 습관을 위해 사소한 깨달음이라도 적어나가고 있습니다.
  * 개발 실력 향상을 위해 강의와 서적을 참고하며 기록해나가고 있습니다.
  * 이론과 코딩 능력과의 괴리를 줄이기 위해 여러 유료 플랫폼들(인프런 등..)을 통해 학습하며, 커밋을 해나가고 있습니다.
  * 개발능력을 향상시키기 위한 가장 빠른 방법은 "모방"이라 생각하며 먼저 나아간 선임 개발자 분들의 영상들을 참고 해나가고 있습니다.
  * 나만의 문서를 만들어 메뉴얼화 시키는것이 개발에서 가장 핵심적인 역량이라 생각합니다.
- 
+
+
 
 ## My Skills 👋
 
 ## 1) BackEnd
-***
 
 
+
+### Languge
+  
   * Java
-    - Spring Boot, Spring MVC, Gradle
-    - JPA, Spring Data JPA
-     - Hibernate
-    - junit4
+     - Spring Boot, Spring MVC, Gradle
+     - JPA, Spring Data JPA
+      - Hibernate
+     - junit4
 
   * PHP 7.x 
     - larabel 8.x -> 실무(LAMP)
+    
+    
+  * Python 3.x
+    - data structures, algorithms
   
   
   
-  * Db
-    - (local)
-      - H2
-      - Mysql Workbench
-    - (Operation)
-      - AWS RDS Mysql(8.x)
+### DB
+  - (local)
+    - H2
+    - Mysql Workbench
+  - (Operation)
+    - AWS RDS Mysql(8.x)
+  - SQL
 
 
 
-  
-* ***Tools***
-  * InteliJ, PhpStorm
-  * VScode
-  * Postman
+
+
 
 ## 2) DevOps
 
@@ -71,22 +76,24 @@
    - imweb
 
 
-## 3) Collaboration Tools
-***
+## 3) Tools
   * Git(hub)
-  * Slack, JANDI
+  * Postman
+  * VScode
+  * InteliJ, PhpStorm
   * Notion
- 
-
+  * Slack, JANDI
+  * Vmware(16 pro)
+   - Linux(Ubuntu 18.0.4)
+  
+  
    
 ## 4) ETC
 
-* Vmware(16 pro)
-  - Linux(Ubuntu 18.0.4)
 * Python(3.x)
 * Excel (VBA)
-
-
+* HTML, CSS, ES5
+* MARKDOWN
 
 
 ## 5) I'm possible under list
